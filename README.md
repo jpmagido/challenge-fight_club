@@ -20,7 +20,7 @@ Dans un premier temps, j'ai besoin:
 D'une application qui permet:
 # A mes Utilisateurs de:
 - S'inscrire à des combats
-- Consulter des combats
+- Consulter des combats et leurs détails
 - Créer des combats
 - Consulter son compte de crédit
 - Regarder une vidéo Youtube pour gagner des crédits sur le site: https://www.youtube.com/watch?v=KxGRhd_iWuE
