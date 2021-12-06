@@ -11,6 +11,7 @@ Nous avons besoin d'une application qui nous permet de monitorer notre activité
 
 Nos règles:
 - Seulement 2 combattants par combat
+- On ne ne pas parier sur sa propre défaite
 - On peut parier une fois que les 2 combatattants connus, pas avant
 - Le pari minimum est de 5€ et l'ensemble ne doit pas dépasser 100€ pour des raisons de comptabilité
 
